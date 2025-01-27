@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaj3nder_09" target="blank"><img src="https://img.shields.io/twitter/follow/gaj3nder_09?logo=twitter&style=for-the-badge" alt="gaj3nder_09" /></a> </p>
 
-- 🔭 I’m currently working on **Decentralized Supply Chain Management**
+- 🔭 I’m currently working on **AI-Powered Learning Platform**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, JavaScript, React, Nodejs**
 
