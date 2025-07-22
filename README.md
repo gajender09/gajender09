@@ -1,32 +1,107 @@
-<h1 align="center">Hi 👋, I'm GAJENDER</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajender09&label=Profile%20views&color=0e75b6&style=flat" alt="gajender09" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/gaj3nder_09" target="blank"><img src="https://img.shields.io/twitter/follow/gaj3nder_09?logo=twitter&style=for-the-badge" alt="gaj3nder_09" /></a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gajender-mandiwal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.youtube.com/@gajender09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://twitter.com/gaj3nder_09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **AI-Powered Personalized Learning Platform**
+###
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, JavaScript, React, Nodejs, Blockchain**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gajender09.gajender09&title=Profile%20Visits" />
+</div>
 
-- 👯 I’m looking to collaborate on **ReactJS Projects**
+###
 
-- 💬 Ask me about **HTML & CSS**
+<h1 align="center">Hey there 👋, I'm Gajender</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI & Web3 Explorer | 🇮🇳 India</h3>
 
-- 📫 How to reach me **mandiwalgajender0001@gmail.com**
+###
 
-- ⚡ Fun fact **I think I am forgetful**
+<h3 align="left">👨‍💻 About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gaj3nder_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaj3nder_09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gajender-mandiwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gajender-mandiwal/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gaj3nder_09/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gaj3nder_09/?hl=en" height="30" width="40" /></a>
+  I'm a 4th year B.Tech CSE student passionate about building full-stack apps with a focus on AI & Blockchain.
+  <br><br>
+  - 🔭 Working on: <b>AI-Powered Learning Platform (AICademy)</b><br>
+  - 🌱 Currently learning: <b>DSA, MERN Stack, LLM Agents, Blockchain</b><br>
+  - 👯 Looking to collaborate on: <b>React / Node.js / AI Projects</b><br>
+  - 💬 Ask me about: <b>HTML, CSS, React, Firebase</b><br>
+  - 📫 Reach me at: <b>mandiwalgajender0001@gmail.com</b><br>
+  - ⚡ Fun fact: <b>I sometimes forget, but never give up 💪</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajender09&show_icons=true&locale=en&layout=compact" alt="gajender09" /></p>
+<h3 align="left">🛠 Languages & Tools</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajender09&show_icons=true&locale=en" alt="gajender09" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
+
+###
+
+<h3 align="left">💼 Featured Projects</h3>
+
+<ul>
+  <li><b>AICademy</b> – AI-Powered Course Generator using Gemini API + Firebase</li>
+  <li><b>Skill Swap Platform</b> – React platform to exchange skills based on availability</li>
+  <li><b>TrustBallot</b> – Blockchain-based secure voting system</li>
+  <li><b>Real Estate Forecast</b> – ML model predicting housing prices</li>
+</ul>
+
+###
+
+<h3 align="left">🔥 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gajender09&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gajender09&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajender09&layout=compact&theme=radical" height="180" />
+</div>
+
+###
+
+<h3 align="center">✨ Let's Build Something Awesome Together</h3>
+
+<div align="center">
+  <a href="mailto:mandiwalgajender0001@gmail.com">
+    <img src="https://img.shields.io/badge/-Email me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
