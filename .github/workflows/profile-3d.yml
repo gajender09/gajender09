@@ -23,10 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "type": "night_green"
-            }
+          SETTING_JSON: '{"type": "night_green"}'
 
       - name: Commit & Push
         run: |
