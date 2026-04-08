@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Gajender;Full+Stack+Developer;AI+%2B+Web3+Explorer;Building+Scalable+Products+🚀" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gajender-mandiwal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -41,6 +47,36 @@
   - 📫 Reach me at: <b>mandiwalgajender0001@gmail.com</b><br>
   - ⚡ Fun fact: <b>I sometimes forget, but never give up 💪</b>
 </p>
+
+###
+
+<h3 align="left">🔥 GitHub Dashboard</h3>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=gajender09&theme=tokyonight&hide_border=false&border_radius=5" height="300" width="85%"/>
+  
+###
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajender09&theme=tokyo-night&hide_border=false&border_radius=5&hide_title=true&area=true" height="300" width="75%"/>
+  
+<br/><br/>
+</div>
+
+
+###
+
+<h3 align="left">🧠 LeetCode Dashboard</h3>
+
+<div align="center">
+
+<a href="https://leetcode.com/gajender09/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/gajender09?theme=dark&font=jetbrains_mono&ext=heatmap&animation=true&border_radius=10" height="400" width="76%"/>
+</a>
+
+<br/><br/>
+</div>
+
 
 ###
 
@@ -82,19 +118,6 @@
   <li><b>TrustBallot</b> – Blockchain-based secure voting system</li>
   <li><b>Real Estate Forecast</b> – ML model predicting housing prices</li>
 </ul>
-
-###
-
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gajender09&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajender09&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajender09&layout=compact&theme=radical" height="180" />
-</div>
 
 ###
 
