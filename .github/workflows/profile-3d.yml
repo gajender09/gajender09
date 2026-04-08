@@ -17,13 +17,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"type": "night_green"}'
+          SETTING_JSON_FILE: .github/settings.json
 
       - name: Commit & Push
         run: |
