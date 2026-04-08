@@ -32,10 +32,9 @@
 
 <h1 align="center">Hey there 👋, I'm Gajender</h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 AI & Web3 Explorer | 🇮🇳 India</h3>
+<br/><br/>
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
+<!-- <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
   I'm a 4th year B.Tech CSE student passionate about building full-stack apps with a focus on AI & Blockchain.
@@ -46,9 +45,7 @@
   - 💬 Ask me about: <b>HTML, CSS, React, Firebase</b><br>
   - 📫 Reach me at: <b>mandiwalgajender0001@gmail.com</b><br>
   - ⚡ Fun fact: <b>I sometimes forget, but never give up 💪</b>
-</p>
-
-###
+</p> -->
 
 <h3 align="left">🔥 GitHub Dashboard</h3>
 
@@ -58,13 +55,23 @@
   
 ###
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajender09&theme=tokyo-night&hide_border=false&border_radius=5&hide_title=true&area=true" height="300" width="75%"/>
-  
-<br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajender09&theme=tokyo-night&hide_border=false&border_radius=10&hide_title=true&area=true" height="300" width="75%"/>
+
+###
+
+<div align="center">
+  <img 
+    src="./profile-3d-contrib/profile-night-green.svg" 
+    alt="3D Contribution Graph"
+    width="75%" 
+    style="max-width: 550px; border-radius: 50%;"
+  />
+</div>
+
 </div>
 
 
-###
+##
 
 <h3 align="left">🧠 LeetCode Dashboard</h3>
 
@@ -74,11 +81,11 @@
   <img src="https://leetcard.jacoblin.cool/gajender09?theme=dark&font=jetbrains_mono&ext=heatmap&animation=true&border_radius=10" height="400" width="76%"/>
 </a>
 
-<br/><br/>
+
 </div>
 
 
-###
+##
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
@@ -108,7 +115,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
-###
+##
 
 <h3 align="left">💼 Featured Projects</h3>
 
