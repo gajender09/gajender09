@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4   # upgraded
+      - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
@@ -28,10 +28,10 @@ jobs:
               "type": "night_green"
             }
 
-      - name: Push generated files
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          publish_dir: ./profile-3d-contrib
-          publish_branch: main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib
+          git commit -m "generated 3D graph" || echo "no changes"
+          git push
