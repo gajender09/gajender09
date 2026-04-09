@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Gajender;Full+Stack+Developer;AI+%2B+Web3+Explorer;Building+Scalable+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Gajender;Full+Stack+Developer;AI+%2B+Web3+Explorer;Building+Scalable+Products+🚀" />
 </div>
 
 ###
@@ -32,58 +32,36 @@
 
 <h1 align="center">Hey there 👋, I'm Gajender</h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 AI & Web3 Explorer | 🇮🇳 India</h3>
-<br/><br/>
 
-<!-- <h3 align="left">👨‍💻 About Me</h3>
+</br>
 
-<p align="left">
-  I'm a 4th year B.Tech CSE student passionate about building full-stack apps with a focus on AI & Blockchain.
-  <br><br>
-  - 🔭 Working on: <b>AI-Powered Learning Platform (AICademy)</b><br>
-  - 🌱 Currently learning: <b>DSA, MERN Stack, LLM Agents, Blockchain</b><br>
-  - 👯 Looking to collaborate on: <b>React / Node.js / AI Projects</b><br>
-  - 💬 Ask me about: <b>HTML, CSS, React, Firebase</b><br>
-  - 📫 Reach me at: <b>mandiwalgajender0001@gmail.com</b><br>
-  - ⚡ Fun fact: <b>I sometimes forget, but never give up 💪</b>
-</p> -->
-
-<h3 align="left">🔥 GitHub Dashboard</h3>
+## ![GitHub](https://img.shields.io/badge/GitHub-Analytics-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
-  
   <img src="https://streak-stats.demolab.com?user=gajender09&theme=tokyonight&hide_border=false&border_radius=5" height="300" width="75%"/>
   
 ###
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajender09&theme=tokyo-night&hide_border=false&border_radius=10&hide_title=true&area=true" height="300" width="75%"/>
-
+  
 ###
-  <img 
-    src="./profile-3d-contrib/profile-night-green.svg" 
-    alt="3D Contribution Graph"
-    width="75%" 
-    style="max-width: 550px; border-radius: 50%;"
-  />
+
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="75%"/>
 </div>
 
+</br>
 
-##
-
-<h3 align="left">🧠 LeetCode Dashboard</h3>
+## ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <div align="center">
-
 <a href="https://leetcode.com/gajender09/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/gajender09?theme=dark&font=jetbrains_mono&ext=heatmap&animation=true&border_radius=10" height="400" width="76%"/>
 </a>
-
-
 </div>
 
+</br>
 
-##
-
-<h3 align="left">🛠 Languages & Tools</h3>
+## ![Tech Stack](https://img.shields.io/badge/Tech-Stack-0ea5e9?style=for-the-badge&logo=stackshare&logoColor=white)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
@@ -111,9 +89,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
-##
+</br>
 
-<h3 align="left">💼 Featured Projects</h3>
+## ![Projects](https://img.shields.io/badge/Featured-Projects-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 
 <ul>
   <li><b>AICademy</b> – AI-Powered Course Generator using Gemini API + Firebase</li>
@@ -122,7 +100,7 @@
   <li><b>Real Estate Forecast</b> – ML model predicting housing prices</li>
 </ul>
 
-###
+</br>
 
 <h3 align="center">✨ Let's Build Something Awesome Together</h3>
 
