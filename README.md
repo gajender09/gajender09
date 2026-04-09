@@ -35,7 +35,9 @@
 
 </br>
 
-## ![GitHub](https://img.shields.io/badge/GitHub-Analytics-181717?style=for-the-badge&logo=github&logoColor=white)
+## ![GitHub](https://img.shields.io/badge/GitHub-Analytics-white?style=for-the-badge&logo=github&logoColor=black)
+ 
+<!--## ![GitHub](https://img.shields.io/badge/GitHub-Analytics-181717?style=for-the-badge&logo=github&logoColor=white)-->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gajender09&theme=tokyonight&hide_border=false&border_radius=5" height="300" width="75%"/>
