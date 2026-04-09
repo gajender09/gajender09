@@ -28,12 +28,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gajender09.gajender09&title=Profile%20Visits" />
 </div>
 
----
+###
 
-<!-- <h1 align="center">Hey there 👋, I'm Gajender</h1>
+<h1 align="center">Hey there 👋, I'm Gajender</h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 AI & Web3 Explorer | 🇮🇳 India</h3>
 
-</br> -->
+</br>
 
 ## ![GitHub](https://img.shields.io/badge/GitHub-Analytics-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -51,7 +51,7 @@
 
 </br>
 
-## ![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+## ![LeetCode](https://img.shields.io/badge/LeetCode-Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <div align="center">
 <a href="https://leetcode.com/gajender09/" target="_blank">
