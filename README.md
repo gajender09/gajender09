@@ -51,17 +51,13 @@
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=gajender09&theme=tokyonight&hide_border=false&border_radius=5" height="300" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=gajender09&theme=tokyonight&hide_border=false&border_radius=5" height="300" width="75%"/>
   
 ###
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajender09&theme=tokyo-night&hide_border=false&border_radius=10&hide_title=true&area=true" height="300" width="75%"/>
 
-</div>
-
 ###
-
-<div align="center">
   <img 
     src="./profile-3d-contrib/profile-night-green.svg" 
     alt="3D Contribution Graph"
